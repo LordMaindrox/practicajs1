@@ -1,1 +1,1 @@
-console.log('Se deja la eidencia de las prácticas')
+console.log('Se deja la evidencia de las prácticas')
